@@ -1,5 +1,7 @@
 # dots manager
 
+Upstream: [.dots](https://github.com/dmadisetti/.dots/tree/template/dots-manager)
+
 pretty much managed through flake scripts and fish functions. Refer to 
 [scripts help](../scripts/messages/help.md), (or just run `dots-help`).
 
